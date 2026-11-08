@@ -1,0 +1,22 @@
+{
+  "wheel_id": 860,
+  "structure": "umbrella",
+  "slug": "adelaidekitchenreno-154",
+  "project": "kitchen-renovation-adelaide-checklist-f32ec8d58f6ae2c7a8519e05c",
+  "parent_t1_ref": "adelaidekitchenreno-014",
+  "node_role": "buffer",
+  "money_target": "adelaidekitchenreno.com.au",
+  "primary_kw": "kitchen renovation adelaide checklist",
+  "intended_url": "https://aumedia.neocities.org/kitchen-renovation-adelaide-checklist-f32ec8d58f6ae2c7a8519e05c/",
+  "tier": "T2",
+  "writeback_nonce": "9bb0a164fd84a04d",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/kitchen-renovation-adelaide-014/",
+      "anchor": "Kitchen Renovation Adelaide: Practical Planning Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
